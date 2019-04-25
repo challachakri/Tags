@@ -12,5 +12,8 @@ Code quality Analyzer:
   --->Sonarqube Server
   --->Sonarqube Scanner
 
-
+Application Servers:
+  --->Jboss/Wildfly
+  --->Weblogic
+  --->Glassfish
 
