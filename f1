@@ -22,3 +22,6 @@ Web Servers:
   --->Http Server
   --->Nginx
 
+Remote Repositories:
+  --->Nexus
+  --->Jfrog
