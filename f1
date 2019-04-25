@@ -16,4 +16,9 @@ Application Servers:
   --->Jboss/Wildfly
   --->Weblogic
   --->Glassfish
+  
+Web Servers:
+  --->Tomcat
+  --->Http Server
+  --->Nginx
 
